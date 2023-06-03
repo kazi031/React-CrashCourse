@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Kazi's Birthday",
+      "day": "Dec 3rd 12:00am",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Putul's Birthday",
+      "day": "29th June 12:00am",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Anniversary",
+      "day": "11th July, 12:00 am",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
